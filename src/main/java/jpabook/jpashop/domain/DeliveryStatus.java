@@ -1,4 +1,8 @@
 package jpabook.jpashop.domain;
 
-public enum DeliveryStatus {
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+public enum DeliveryStatus{
 }
